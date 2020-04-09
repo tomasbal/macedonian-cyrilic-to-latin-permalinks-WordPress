@@ -5,7 +5,7 @@ This plugin will fix the permalinks when post is published so they don't look li
 
 That is happening because WordPress is trying to encode the URL, but that is not very human readable.
 
-__What this plugin does is, changing the Title (if its on Macedonian - Cyrilic) and retype it on Latin.__
+__What this plugin does is, changing the Post permalinks (if its on Macedonian - Cyrilic) and retype it on Latin.__
 
 So if you have something like : "Наслов за новата објава" it will be translated to this: "Naslov za novata objava";
 
