@@ -10,9 +10,9 @@ What this plugin does is, changing the Title (if its on Macedonian - Cyrilic) an
 So if you have something like : "Наслов за новата објава" it will be translated to this: "Naslov za novata objava";
 
 
-#How to use it?
+## How to use it?
 
-1.Download the plugin
+1. Download the plugin
 2. Upload it to WordPress
 3. That's it. Next time you create post the permalinks will be changed to latin (without changing the title).
 
