@@ -7,7 +7,7 @@ That is happening because WordPress is trying to encode the URL, but that is not
 
 __What this plugin does is, changing the Post permalinks (if its on Macedonian - Cyrilic) and retype it on Latin.__
 
-So if you have something like : "Наслов за новата објава" it will be translated to this: "Naslov za novata objava";
+So if you have something like Title:"Наслов за новата објава", the url will be like this: "https://websitename.com/%434324%3434324%34" it will be translated to this: "https://websitename.com/naslov-za-novata-objava";
 
 
 ## How to use it?
